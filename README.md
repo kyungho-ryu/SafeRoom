@@ -14,7 +14,7 @@ Because blockchain puts data in blocks and stores it in the form of a chain, it 
 
 ## Architecture 
 
-<img src="https://user-images.githubusercontent.com/73271891/154790749-c2a31326-4cfd-4980-a0b4-771f033dc5f2.png" width="70%">
+<img src="https://user-images.githubusercontent.com/73271891/154830429-ad3ec92b-c272-4cf4-a716-9311782cd56e.png" width="70%">
 
 ## Demo video
 
