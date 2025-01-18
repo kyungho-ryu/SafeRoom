@@ -63,7 +63,7 @@ SafeRoom introduces an innovative approach to real estate by integrating blockch
 
 ---
 
-## 📚 **Getting Started**
+## **Getting Started**
 
 ### Installation
 1. Clone the repository:
